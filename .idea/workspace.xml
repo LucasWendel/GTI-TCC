@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbd59f2-44e9-4a64-8473-0b7724fa8cad" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="155" column="93" lean-forward="false" selection-start-line="155" selection-start-column="93" selection-end-line="155" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editarCadastro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alugar/cmd/editarCadastro.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="391" column="114" lean-forward="false" selection-start-line="391" selection-start-column="114" selection-end-line="391" selection-end-column="114" />
+              <folding>
+                <marker date="1623685978122" expanded="true" signature="434:596" ph="SELECT id_us... alugar" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controleAlugar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alugar/controleAlugar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="694">
+              <caret line="162" column="63" lean-forward="false" selection-start-line="162" selection-start-column="63" selection-end-line="162" selection-end-column="63" />
+              <folding>
+                <marker date="1623686251131" expanded="true" signature="3777:4102" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="3834:4079" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="4226:4275" ph="SELECT * FRO... alugar" />
+                <marker date="1623686251131" expanded="true" signature="4456:4473" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="4633:4973" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="4690:4950" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="5379:5701" ph="INSERT INTO alugar... " />
+                <marker date="1623686251131" expanded="true" signature="7595:8852" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="7752:8825" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="7865:8794" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="7944:8759" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="8005:8369" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="8076:8326" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="8444:8720" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="8907:10137" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9064:10110" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9177:10079" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9256:10044" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9317:9654" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9388:9611" ph="..." />
+                <marker date="1623686251131" expanded="true" signature="9729:10005" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alugar/cmd/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="267" column="0" lean-forward="false" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+              <folding>
+                <marker date="1623686251161" expanded="true" signature="196:242" ph="SELECT * FRO... usuario" />
+                <marker date="1623686251161" expanded="true" signature="472:492" ph="SELECT * FRO... alugar" />
+                <marker date="1623686251161" expanded="true" signature="1422:1575" ph="SELECT id_us... alugar" />
+                <marker date="1623686251161" expanded="true" signature="16808:16969" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>u322760888_selo2020</find>
+      <find>tipo_selo</find>
+      <find>tipoInscricao</find>
+      <find>uf</find>
+      <find>form</find>
+      <find>rares</find>
+      <find>editar</find>
+      <find>excluii</find>
+      <find>brand/blue.png</find>
+      <find>nome</find>
+      <find>cnr</find>
+      <find>nome do</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>alugar</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/alugar/conexao.php" />
+        <option value="$PROJECT_DIR$/alugar/email.html" />
+        <option value="$PROJECT_DIR$/alugar/alugar.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/login.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/conexaoAcesso.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/validaAcesso.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/navbar.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/conexao.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/excluir.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/checkoutEditar.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/alugueis.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/editarCadastro.php" />
+        <option value="$PROJECT_DIR$/alugar/cmd/home.php" />
+        <option value="$PROJECT_DIR$/alugar/controleAlugar.php" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alugar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gti" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alugar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbd59f2-44e9-4a64-8473-0b7724fa8cad" name="Default" comment="" />
+      <created>1623672409662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623672409662</updated>
+      <workItem from="1623672433533" duration="14767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14767000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24270834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/alugar/alugar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-694">
+          <caret line="202" column="0" lean-forward="true" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="551" column="57" lean-forward="true" selection-start-line="551" selection-start-column="57" selection-end-line="551" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#2;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#3;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#4;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#5;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#5;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#7;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#9;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#td#1;n#tr#0;n#tbody#0;n#table#9;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#td#1;n#tr#0;n#tbody#0;n#table#9;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#9;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <marker date="1623681489043" expanded="true" signature="83:919" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="205:746" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="248:441" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="310:414" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="484:701" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="550:674" ph="..." />
+            <marker date="1623681489043" expanded="true" signature="864:891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/validaAcesso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="224" column="32" lean-forward="false" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
+          <folding>
+            <marker date="1623680556812" expanded="true" signature="4894:4969" ph="SELECT * FRO... usuario" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/excluir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="188" column="119" lean-forward="false" selection-start-line="188" selection-start-column="119" selection-end-line="188" selection-end-column="119" />
+          <folding>
+            <marker date="1623684342617" expanded="true" signature="1387:2793" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="1553:2757" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="1675:2717" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="1763:2673" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="1845:2255" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="1923:2191" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="2329:2586" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="2877:4892" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3043:4856" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3165:4816" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3253:4772" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3335:3749" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3413:3685" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3823:4685" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="3916:4393" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5031:5089" ph="DELETE FROM " />
+            <marker date="1623684342617" expanded="true" signature="5137:6519" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5303:6483" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5425:6443" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5513:6399" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5595:5999" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="5673:5935" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="6073:6312" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="6589:7920" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="6751:7888" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="6869:7852" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="6953:7812" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="7031:7424" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="7105:7364" ph="..." />
+            <marker date="1623684342617" expanded="true" signature="7494:7729" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/alugueis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="94" column="41" lean-forward="false" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <marker date="1623685358977" expanded="true" signature="198:244" ph="SELECT * FRO... usuario" />
+            <marker date="1623685358977" expanded="true" signature="474:494" ph="SELECT * FRO... alugar" />
+            <marker date="1623685358977" expanded="true" signature="1050:1141" ph="SELECT id_us... alugar" />
+            <marker date="1623685358977" expanded="true" signature="1423:1579" ph="SELECT id_us... alugar" />
+            <marker date="1623685358977" expanded="true" signature="16301:16462" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/acessoUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <marker date="1622258692763" expanded="true" signature="147:222" ph="SELECT * FRO... usuario" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/conexaoAcesso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/checkoutEditar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <marker date="1623684896517" expanded="true" signature="1199:1451" ph="UPDATE aluga... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="267" column="0" lean-forward="false" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+          <folding>
+            <marker date="1623686251161" expanded="true" signature="196:242" ph="SELECT * FRO... usuario" />
+            <marker date="1623686251161" expanded="true" signature="472:492" ph="SELECT * FRO... alugar" />
+            <marker date="1623686251161" expanded="true" signature="1422:1575" ph="SELECT id_us... alugar" />
+            <marker date="1623686251161" expanded="true" signature="16808:16969" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/cmd/editarCadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="391" column="114" lean-forward="false" selection-start-line="391" selection-start-column="114" selection-end-line="391" selection-end-column="114" />
+          <folding>
+            <marker date="1623685978122" expanded="true" signature="434:596" ph="SELECT id_us... alugar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alugar/controleAlugar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="162" column="63" lean-forward="false" selection-start-line="162" selection-start-column="63" selection-end-line="162" selection-end-column="63" />
+          <folding>
+            <marker date="1623686251131" expanded="true" signature="3777:4102" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="3834:4079" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="4226:4275" ph="SELECT * FRO... alugar" />
+            <marker date="1623686251131" expanded="true" signature="4456:4473" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="4633:4973" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="4690:4950" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="5379:5701" ph="INSERT INTO alugar... " />
+            <marker date="1623686251131" expanded="true" signature="7595:8852" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="7752:8825" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="7865:8794" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="7944:8759" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="8005:8369" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="8076:8326" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="8444:8720" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="8907:10137" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9064:10110" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9177:10079" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9256:10044" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9317:9654" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9388:9611" ph="..." />
+            <marker date="1623686251131" expanded="true" signature="9729:10005" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="155" column="93" lean-forward="false" selection-start-line="155" selection-start-column="93" selection-end-line="155" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+<?php$host = "127.0.0.1";$loga = "root";$senhaLoga = "root";$baseDados = "drone";$conecta = mysqli_connect($host, $loga, $senhaLoga, $baseDados);$conectaBanco = mysqli_select_db($conecta,"usuario");?>
